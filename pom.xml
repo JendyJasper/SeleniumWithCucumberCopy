@@ -91,6 +91,12 @@
             <version>6.9.1</version>
             <scope>test</scope>
         </dependency>
+	    
+	<dependency>
+	    <groupId>org.projectlombok</groupId>
+	    <artifactId>lombok</artifactId>
+	    <version>1.18.28</version>
+	</dependency>
 
         <!-- https://mvnrepository.com/artifact/org.picocontainer/picocontainer -->
         <dependency>
